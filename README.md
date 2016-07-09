@@ -1,4 +1,4 @@
-# EntityFrameworkCore.Sqlite : 1.0.0 Playgorund with UWP
+# EntityFrameworkCore.Sqlite : 1.0.0 Playground with UWP
 Sample UWP project for testing various features of EntityFrameworkCore.Sqlite : 1.0.0 
 
 Repo has one start UWP project and several other UWP class library for testing : 
