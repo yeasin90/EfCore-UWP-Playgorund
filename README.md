@@ -3,7 +3,7 @@ Sample UWP project for testing various features of EntityFrameworkCore.Sqlite : 
 
 Repo has one start UWP project and several other UWP class library for testing : 
 
-1. Generic Repository 
+1. Generic Repository with Code first migration
 2. EntityFrameworkCore.Sqlite : 1.0.0 new features
 ........
 
